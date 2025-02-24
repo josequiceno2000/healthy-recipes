@@ -9,3 +9,23 @@ img {
 #cook-time {
     font-weight: bold;
 }
+
+.ingredients li {
+    list-style: square;
+}
+
+p.time {
+    color: rgb(6, 119, 134);
+    font-weight: 600;
+}
+
+.external-link {
+    color: seagreen;
+}
+
+h1, 
+h2, 
+p, 
+li {
+    font-family: Helvetiva;
+}
